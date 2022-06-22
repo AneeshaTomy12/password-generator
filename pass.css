@@ -1,0 +1,33 @@
+.main{
+	border-style: solid;
+	height: 380px;
+	width: 30%;
+	margin: auto;
+	margin-top: 100px;
+	background-color: #D98880;
+}
+.output input{
+	margin-top: 10px;
+	height: 50px;
+	width: 80%;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+input[type=checkbox]{
+	width: 30%;
+	height: 30px;
+	margin-bottom: 10px;
+}
+.options{
+	font-size: 28px;
+}
+
+input[type=button]{
+	margin-left: 20px;
+	margin-top: 10px;
+	width: 42%;
+	height: 50px;
+	background-color: darkred;
+	color: white;
+
+}
